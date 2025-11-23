@@ -1,0 +1,10 @@
+# Visual Studio Code specific settings
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log files and temporary files
+*.log
+*.tmp
